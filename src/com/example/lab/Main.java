@@ -11,7 +11,5 @@ public class Main {
 		name = s.next();
 		
 		System.out.print("Your name is "+name+".");
-		
-		System.out.print("Hello");
 	}
 }
